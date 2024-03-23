@@ -10,6 +10,8 @@ git clone https://github.com/no1NYOXS/CATchat.git
 
 cd CATchat
 
+pip3 install -r requirements.txt
+
 python3 CATserver.py
 
 
@@ -19,5 +21,7 @@ python3 CATserver.py
 git clone https://github.com/no1NYOXS/CATchat.git
 
 cd CATchat
+
+pip3 install -r requirements.txt
 
 python3 CATchat.py
